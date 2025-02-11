@@ -17,6 +17,7 @@ export const OrganizingChairs = {
           title: "Prof. Masilamani V.",
           description: "Professor, Department of Computer Science and Engineering",
           socialLinks: {
+
             facebook: "https://www.iiitdm.ac.in/people/faculty/masila@iiitdm.ac.in",
             linkedin: "https://in.linkedin.com/in/masilamani-vedhanayagam-266b3653"
           }
