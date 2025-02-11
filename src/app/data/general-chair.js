@@ -5,7 +5,7 @@ export const GeneralChair = {
         affiliation: "IIIT-Allahabad (Chair)",
         image: "/assets/images/technical-program-committee/tiwary.jpg",
         socialLinks: {
-          facebook: "https://facebook.com/us.tiwary",
+          official: "https://official.com/us.tiwary",
           linkedin: "https://linkedin.com/us_tiwary"
         }
     },
@@ -14,7 +14,7 @@ export const GeneralChair = {
         affiliation: "IIT-Kanpur",
         image: "/assets/images/technical-program-committee/chauhan.jpg",
         socialLinks: {
-          facebook: "https://facebook.com/yogesh.chauhan",
+          official: "https://official.com/yogesh.chauhan",
           linkedin: "https://linkedin.com/yogesh_chauhan"
         }
     },
@@ -23,7 +23,7 @@ export const GeneralChair = {
         affiliation: "IIT Kanpur",
         image: "/assets/images/technical-program-committee/singh.jpg",
         socialLinks: {
-          facebook: "https://facebook.com/yn.singh",
+          official: "https://official.com/yn.singh",
           linkedin: "https://linkedin.com/yn_singh"
         }
     },

@@ -5,7 +5,7 @@ export const Co_Patrons = {
         title: "Prof. Sivaselvan B",
         description: "IIITDM Kancheepuram, Head of the Department, Computer Science and Engineering",
         socialLinks: {
-          facebook: "https://www.iiitdm.ac.in/people/faculty/sivaselvanb@iiitdm.ac.in",
+          official: "https://www.iiitdm.ac.in/people/faculty/sivaselvanb@iiitdm.ac.in",
           linkedin: "https://www.linkedin.com/in/siva-selvan-a3a24448/"
         },
       },
@@ -14,7 +14,7 @@ export const Co_Patrons = {
         title: "Dr. Chitti Babu B",
         description: "IIITDM Kancheepuram, Head of the Department, Electronics and Communication Engineering ",
         socialLinks: {
-          facebook: "https://www.iiitdm.ac.in/people/faculty/bcbabu@iiitdm.ac.in",
+          official: "https://www.iiitdm.ac.in/people/faculty/bcbabu@iiitdm.ac.in",
           linkedin: "https://www.linkedin.com/in/dr-chitti-babu-b-52a75a89/"
         },
       },
@@ -23,7 +23,7 @@ export const Co_Patrons = {
         title: "Prof. Raja B",
         description: "IIITDM Kancheepuram, Head of the Department, Mechanical Engineering ",
         socialLinks: {
-          facebook: "https://www.iiitdm.ac.in/people/faculty/rajab@iiitdm.ac.in",
+          official: "https://www.iiitdm.ac.in/people/faculty/rajab@iiitdm.ac.in",
           linkedin: "https://www.linkedin.com/in/raja-balakrishnan-50827529/"
         },
       },
@@ -32,7 +32,7 @@ export const Co_Patrons = {
         title: "Dr. Sudhir Varadrajan",
         description: "IIITDM Kancheepuram, Head, School of Interdisciplinary Design and Innovation",
         socialLinks: {
-          facebook: "https://www.iiitdm.ac.in/people/faculty/sudhir@iiitdm.ac.in",
+          official: "https://www.iiitdm.ac.in/people/faculty/sudhir@iiitdm.ac.in",
           linkedin: "https://www.linkedin.com/in/sudhirvaradarajan/"
         },
       },
@@ -41,7 +41,7 @@ export const Co_Patrons = {
         title: "Prof. Naveen Kumar",
         description: "IIITDM Kancheepuram, Head of the Department, Sciences and Humanities",
         socialLinks: {
-          facebook: "https://www.iiitdm.ac.in/people/faculty/nkumar@iiitdm.ac.in",
+          official: "https://www.iiitdm.ac.in/people/faculty/nkumar@iiitdm.ac.in",
           linkedin: "https://www.linkedin.com/in/naveen-kumar-4530a1145/"
         },
       },

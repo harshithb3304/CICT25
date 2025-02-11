@@ -5,7 +5,7 @@ export const Patrons = {
       title: "Prof. M. V. Kartikeyan",
       description: "Director, IIITDM Kancheepuram",
       socialLinks: {
-        facebook: "https://www.iiitdm.ac.in/people/faculty/kartik@iiitdm.ac.in",
+        official: "https://www.iiitdm.ac.in/people/faculty/kartik@iiitdm.ac.in",
         linkedin: "#"
       },
     },
@@ -14,7 +14,7 @@ export const Patrons = {
       title: "Prof. B. S. Murty",
       description: " Director, IIITDM Kurnool",
       socialLinks: {
-        facebook: "https://mme.iitm.ac.in/faculty-inner.php?id=20&fc=1",
+        official: "https://mme.iitm.ac.in/faculty-inner.php?id=20&fc=1",
         linkedin: "https://www.linkedin.com/in/b-s-murty-3b1370271/"
       },
     },
@@ -23,7 +23,7 @@ export const Patrons = {
       title: "Prof. Sri Niwas Singh",
       description: "ABV-IIITM, Gwalior",
       socialLinks: {
-        facebook: "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/prof-sri-niwas",
+        official: "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/prof-sri-niwas",
         linkedin: "https://www.linkedin.com/in/sri-niwas-singh-963b89247/"
       },
     },
@@ -32,7 +32,7 @@ export const Patrons = {
       title: "Prof. Bhartendu K Singh",
       description: "Director, IIITDM Jabalpur     ",
       socialLinks: {
-        facebook: "http://faculty.iiitdmj.ac.in/faculty/Bhartendu-K-Singh",
+        official: "http://faculty.iiitdmj.ac.in/faculty/Bhartendu-K-Singh",
         linkedin: "https://www.linkedin.com/in/bhartendu-kumar-singh-a0300042/"
       },
     },
@@ -41,7 +41,7 @@ export const Patrons = {
       title: "Prof. Mukul Sharad Sutaone",
       description: "Director, IIIT Allahabad  ",
       socialLinks: {
-        facebook: "https://iiita.irins.org/profile/147084",
+        official: "https://iiita.irins.org/profile/147084",
         linkedin: "#"
       },
     },

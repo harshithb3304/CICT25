@@ -5,7 +5,7 @@ export const TechnicalProgramCommittee = {
         affiliation: "IIIT-Allahabad (Chair)",
         image: "/assets/images/technical-program-committee/tiwary.jpg",
         socialLinks: {
-          facebook: "https://facebook.com/us.tiwary",
+          official: "https://official.com/us.tiwary",
           linkedin: "https://linkedin.com/us_tiwary"
         }
     },
@@ -14,7 +14,7 @@ export const TechnicalProgramCommittee = {
         affiliation: "IIT-Kanpur",
         image: "/assets/images/technical-program-committee/chauhan.jpg",
         socialLinks: {
-          facebook: "https://facebook.com/yogesh.chauhan",
+          official: "https://official.com/yogesh.chauhan",
           linkedin: "https://linkedin.com/yogesh_chauhan"
         }
     },
@@ -23,7 +23,7 @@ export const TechnicalProgramCommittee = {
         affiliation: "IIT Kanpur",
         image: "/assets/images/technical-program-committee/singh.jpg",
         socialLinks: {
-          facebook: "https://facebook.com/yn.singh",
+          official: "https://official.com/yn.singh",
           linkedin: "https://linkedin.com/yn_singh"
         }
     },
@@ -32,7 +32,7 @@ export const TechnicalProgramCommittee = {
         affiliation: "IIT Kanpur",
         image: "/assets/images/technical-program-committee/srivastava.jpg",
         socialLinks: {
-          facebook: "https://facebook.com/kumar.srivastava",
+          official: "https://official.com/kumar.srivastava",
           linkedin: "https://linkedin.com/kumar_srivastava"
         },
     },
@@ -41,7 +41,7 @@ export const TechnicalProgramCommittee = {
         affiliation: "IIT Bombay",
         image: "/assets/images/technical-program-committee/ramakrishnan.jpg",
         socialLinks: {
-          facebook: "https://facebook.com/ganesh.ramakrishnan",
+          official: "https://official.com/ganesh.ramakrishnan",
           linkedin: "https://linkedin.com/ganesh_ramakrishnan"
         }
     },
@@ -50,7 +50,7 @@ export const TechnicalProgramCommittee = {
         affiliation: "IIT Bombay",
         image: "/assets/images/technical-program-committee/manjunath.jpg",
         socialLinks: {
-          facebook: "https://facebook.com/d.manjunath",
+          official: "https://official.com/d.manjunath",
           linkedin: "https://linkedin.com/d_manjunath"
         }
     },
@@ -59,7 +59,7 @@ export const TechnicalProgramCommittee = {
         affiliation: "IISc Bangalore",
         image: "/assets/images/technical-program-committee/chockalingam.jpg",
         socialLinks: {
-          facebook: "https://facebook.com/chockalingam",
+          official: "https://official.com/chockalingam",
           linkedin: "https://linkedin.com/chockalingam"
         }
     },
@@ -68,7 +68,7 @@ export const TechnicalProgramCommittee = {
         affiliation: "IISc Bangalore",
         image: "/assets/images/technical-program-committee/ramakrishna.jpg",
         socialLinks: {
-          facebook: "https://facebook.com/ag.ramakrishna",
+          official: "https://official.com/ag.ramakrishna",
           linkedin: "https://linkedin.com/ag_ramakrishna"
         }
     },
@@ -77,7 +77,7 @@ export const TechnicalProgramCommittee = {
         affiliation: "IIT-Delhi",
         image: "/assets/images/technical-program-committee/bhatnagar.jpg",
         socialLinks: {
-          facebook: "https://facebook.com/manav.bhatnagar",
+          official: "https://official.com/manav.bhatnagar",
           linkedin: "https://linkedin.com/manav_bhatnagar"
         }
     }

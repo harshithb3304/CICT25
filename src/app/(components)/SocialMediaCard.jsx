@@ -24,14 +24,11 @@ function SocialMediaCard({ person }) {
           onMouseLeave={handleImageClick} // Mobile interaction
           onClick={handleImageClick} // Mobile interaction
         >
-<div className="flex justify-center items-center w-full h-full">
-  <img
-    src={person.image}
-    alt={person.title}
-    className="w-full h-auto aspect-[4/3] object-contain object-center transform group-hover:scale-110 transition-transform duration-500"
-  />
-</div>
-
+          <img
+            src={person.image}
+            alt={person.title}
+            className="w-full h-auto aspect-[4/3] object-contain transform group-hover:scale-110 transition-transform duration-500"
+          />
   
           <div
             className={`
@@ -40,15 +37,15 @@ function SocialMediaCard({ person }) {
           >
             <div className="flex space-x-4">
               <a
-                href={person.socialLinks.facebook}
+                href={person.socialLinks.official}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full border-2 border-black"
               >
                 <div className="rounded-full border-1 border-black flex justify-center items-center h-full">
                 <img
-                  src="/logos/academia.png"
-                  alt="Facebook Logo"
+                  src="/logos/facebook.png"
+                  alt="Official Logo"
                   className="w-7 h-7 object-contain hover:scale-110 transition-transform duration-300 rounded-full"
                 />
                 </div>

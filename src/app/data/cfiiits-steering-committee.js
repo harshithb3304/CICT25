@@ -5,7 +5,7 @@ export const CFIIITSSteeringCommittee = {
       title: "Prof. Aditya Trivedi",
       description: "ABV-IIITM, Gwalior",
       socialLinks: {
-        facebook: "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Prof.Aditya",
+        official: "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Prof.Aditya",
         linkedin: "https://www.linkedin.com/in/aditya-trivedi-006628113/"
       },
     },
@@ -14,7 +14,7 @@ export const CFIIITSSteeringCommittee = {
       title: "Dr. W Godfrey Wilfred",
       description: "ABV-IIITM, Gwalior",
       socialLinks: {
-        facebook: "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.WWilfredGodfrey",
+        official: "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.WWilfredGodfrey",
         linkedin: "https://www.linkedin.com/in/wilfred-godfrey-63b76112/"
       },
     },
@@ -23,7 +23,7 @@ export const CFIIITSSteeringCommittee = {
       title: "Prof. V Masilamani",
       description: "IIITDM Kancheepuram",
       socialLinks: {
-        facebook: "https://www.iiitdm.ac.in/people/faculty/masila@iiitdm.ac.in",
+        official: "https://www.iiitdm.ac.in/people/faculty/masila@iiitdm.ac.in",
         linkedin: "https://www.linkedin.com/in/masilamani-vedhanayagam-266b3653/"
       },
     },
@@ -32,7 +32,7 @@ export const CFIIITSSteeringCommittee = {
       title: "Dr. Matadeen Bansal",
       description: "IIITDM Jabalpur",
       socialLinks: {
-        facebook: "http://faculty.iiitdmj.ac.in/faculty/mbansal",
+        official: "http://faculty.iiitdmj.ac.in/faculty/mbansal",
         linkedin: "https://www.linkedin.com/in/matadeen-bansal-9b9aa834/"
       },
     },
@@ -42,7 +42,7 @@ export const CFIIITSSteeringCommittee = {
       title: "Dr. K. K. Naik",
       description: "IIITDM Kurnool",
       socialLinks: {
-        facebook: "https://iiitk.ac.in/Dr.-K.-Krishna-Naik/page",
+        official: "https://iiitk.ac.in/Dr.-K.-Krishna-Naik/page",
         linkedin: "https://www.linkedin.com/in/dr-k-krishna-naik-331a9439/"
       },
     },
@@ -51,7 +51,7 @@ export const CFIIITSSteeringCommittee = {
       title: "Prof. Neetesh Purohit",
       description: "IIITA",
       socialLinks: {
-        facebook: "https://profile.iiita.ac.in/np/",
+        official: "https://profile.iiita.ac.in/np/",
         linkedin: "#"
       },
     },
@@ -60,7 +60,7 @@ export const CFIIITSSteeringCommittee = {
       title: "Dr. Priyanka Kokil",
       description: "IIITDM Kancheepuram",
       socialLinks: {
-        facebook: "https://www.iiitdm.ac.in/people/faculty/priyanka@iiitdm.ac.in",
+        official: "https://www.iiitdm.ac.in/people/faculty/priyanka@iiitdm.ac.in",
         linkedin: "https://www.linkedin.com/in/priyanka-kokil-7504b810/"
       },
     },
@@ -69,7 +69,7 @@ export const CFIIITSSteeringCommittee = {
       title: "Dr. Rajat Kumar Singh",
       description: "IIIT Allahabad",
       socialLinks: {
-        facebook: "https://iiita.irins.org/profile/102943",
+        official: "https://iiita.irins.org/profile/102943",
         linkedin: "https://www.linkedin.com/in/rajat-singh-a412186/"
       },
     },
@@ -78,7 +78,7 @@ export const CFIIITSSteeringCommittee = {
       title: "Dr. Satish K. Singh",
       description: "IIITA",
       socialLinks: {
-        facebook: "https://it.iiita.ac.in/?pg=facultypage&uid=sk.singh",
+        official: "https://it.iiita.ac.in/?pg=facultypage&uid=sk.singh",
         linkedin: "https://www.linkedin.com/in/satish-k-singh-2b372bba/"
       },
     },
@@ -89,7 +89,7 @@ export const CFIIITSSteeringCommittee = {
       title: "Prof. M Sreekumar",
       description: "IIITDM Kancheepuram",
       socialLinks: {
-        facebook: "https://www.iiitdm.ac.in/people/faculty/msk@iiitdm.ac.in",
+        official: "https://www.iiitdm.ac.in/people/faculty/msk@iiitdm.ac.in",
         linkedin: "https://www.linkedin.com/in/sreekumar-m-40ab586b/"
       },
     },
